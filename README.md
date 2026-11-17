@@ -1,0 +1,2 @@
+# AcademicAffairs
+基于SpringBoot与大模型的教务系统数据挖掘分析系统
